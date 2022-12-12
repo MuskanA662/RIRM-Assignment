@@ -1,0 +1,14 @@
+1.What is reverse i command
+Besides using tab-autocompleting aggressively, 
+I also use reverse-i-search all the time to search my command history.
+
+2.How do you list out the hidden directories using Linux command line tool?
+The ls command lists the contents of the current directory. The –a switch lists all files – including hidden files.
+
+3.How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+CentOS is considered to be a more stable distribution compared to Ubuntu
+because mainly because package updates are less frequent.
+
+4.Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+FTP
